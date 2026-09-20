@@ -255,5 +255,8 @@ https://github.
 ### Project Details
 ![Project Details](screenshots/project-details.png)
 
+### Project Members
+![Project Members](screenshots/project-members.png)
+
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
