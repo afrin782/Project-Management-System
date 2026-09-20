@@ -243,3 +243,17 @@ GitHub: https://github.com/afrin782
 GitHub Repository:
 
 https://github.
+
+## Screenshots
+
+### Login
+![Login](screenshots/login.png)
+
+### Projects
+![Projects](screenshots/projects.png)
+
+### Project Details
+![Project Details](screenshots/project-details.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
